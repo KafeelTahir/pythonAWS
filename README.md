@@ -6,4 +6,5 @@ Repo for python
 webotron currently has following features:
 
 -list buckets
--list contents of a bucket 
+-list contents of a bucket
+-create and setup bucket 
